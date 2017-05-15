@@ -13,7 +13,7 @@
 		<h3> 따봉따따따따뽕뽕뽕</h3>
 		<div id="header">
 			<div class="top-wrapper">
-				<h1 id="logo"><a href="/"><img src="" alt="로고" /></a></h1>
+				<h1 id="logo"><a href="/"><img src="/images/logo.png" alt="로고" /></a></h1>
 				<h2 class="hidden">메인메뉴</h2>
 				<ul id="mainmenu" class="block_hlist">
 					<li>
