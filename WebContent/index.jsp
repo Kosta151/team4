@@ -10,6 +10,7 @@
 		<link href="index.css" type="text/css" rel="stylesheet" />
 	</head>
 	<body>
+		<h3> 따봉</h3>
 		<div id="header">
 			<div class="top-wrapper">
 				<h1 id="logo"><a href="/"><img src="" alt="로고" /></a></h1>
