@@ -69,7 +69,7 @@
 					<address id="ad">
 						사업자등록번호 
 						<br/>
-						주소 : 
+						주소 : 없음
 					</address>
 				</p>				
 				<p>
