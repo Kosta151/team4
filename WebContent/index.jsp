@@ -72,7 +72,7 @@
 					</address>
 				</p>				
 				<p>
-					Copyright ⓒ kosta.com All Right Reserved. </p>
+					Copyright ⓒ kosta.com All Right Reserve111d. </p>
 			</div>
 		</div>
 	</body>
