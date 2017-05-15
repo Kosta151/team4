@@ -16,7 +16,7 @@
 				<h2 class="hidden">메인메뉴</h2>
 				<ul id="mainmenu" class="block_hlist">
 					<li>
-						<a href="">kosta가이드</a>
+						<a href="">team4가이드</a>
 					</li>
 					<li>
 						<a href="" >kosta과정</a>
