@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	이곳은 메인입니다.
+	이곳은 메인입니다. 메인이 아닙니다.
 </body>
 </html>
