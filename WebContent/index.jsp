@@ -6,10 +6,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-		<title>index</title>
+		<title>index잉잉잉</title>
 		<link href="index.css" type="text/css" rel="stylesheet" />
 	</head>
 	<body>
+		<h3> 따봉따따따따뽕뽕뽕</h3>
 		<div id="header">
 			<div class="top-wrapper">
 				<h1 id="logo"><a href="/"><img src="/images/logo.png" alt="로고" /></a></h1>
@@ -68,7 +69,7 @@
 					<address id="ad">
 						사업자등록번호 
 						<br/>
-						주소 : 
+						주소 : 없음 하하하하 저는 ;;
 					</address>
 				</p>				
 				<p>

@@ -205,6 +205,10 @@
 				</p>				
 				<p>
 					Copyright ⓒ kosta.com All Right Reserved. </p>
+					<p>
+					Copyright ⓒ kosta.com All Right Reserved. </p>
+					<p>지은지은지은징ㄴ지은지은</p>
+					
 			</div>
 		</div>
 	</body>
