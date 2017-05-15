@@ -205,6 +205,9 @@
 				</p>				
 				<p>
 					Copyright ⓒ kosta.com All Right Reserved. </p>
+					<p>
+					Copyright ⓒ kosta.com All Right Reserved. </p>
+					
 			</div>
 		</div>
 	</body>
